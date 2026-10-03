@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.env
+.venv
+env/
+
+# Docker
+.docker/
+docker-compose.override.yml
+*.log
+.env.docker
+
+# Airflow
+airflow/logs/
+airflow/airflow.cfg
+airflow/unittests.cfg
+airflow/webserver_config.py
+airflow/airflow.db
+
+# Spark
+spark-warehouse/
+.ivy2/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Antigravity
+.antigravityignore

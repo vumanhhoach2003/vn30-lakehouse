@@ -1,0 +1,5 @@
+vnai-2.4.8 
+vnstock-4.0.2
+pyarrow
+boto3
+ipython
